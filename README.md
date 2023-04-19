@@ -28,4 +28,8 @@ Number of Attributes: 18
 
 <img width="426" alt="Screenshot 2023-04-20 at 1 33 23 AM" src="https://user-images.githubusercontent.com/72308644/233188804-f4bbead5-3e4f-4216-baba-026c5748b42b.png">
 
+# Convergence Graph of best SVM
+
+
+
 
